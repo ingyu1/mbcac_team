@@ -10,7 +10,11 @@
   - 3주: 뉴스
 <a name="top"></a>
 
-<a name="code1">code1로 가기</a>
+[code1](#code1)
+[code2](#code2)
+[code3](#code3)
+[code4](#code4)
+[code5](#code5)
 
 ## 아래의 코드를 참고하세요
 ```jsp
