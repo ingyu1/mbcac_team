@@ -3,8 +3,8 @@
 * 주제: 열심히 하자
 * 기간: 3달
  + 1달: 분석
- + 1달: 설계
- + 1달: 구현
+ + 2달: 설계
+ + 3달: 구현 
   - 1주: 로그인
   - 2주: 게시판
   - 3주: 뉴스
@@ -23,4 +23,5 @@
 </jsp:useBean>
 <c:set var="added" value="${dao.add1(board)}"/>
 {"added":${added}}
-
+```
+<h3 style="background="color:red;">구현</h3>
