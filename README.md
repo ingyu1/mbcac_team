@@ -10,7 +10,7 @@
   - 3주: 뉴스
 
 ## 아래의 코드를 참고하세요
-***jsp
+```jsp
 <%@ page language="java" contentType="application/json; charset=UTF-8"
     pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
 
@@ -23,4 +23,4 @@
 </jsp:useBean>
 <c:set var="added" value="${dao.add1(board)}"/>
 {"added":${added}}
-***jsp
+```jsp
